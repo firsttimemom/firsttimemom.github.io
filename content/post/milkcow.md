@@ -2,7 +2,7 @@
 title: The Milk Cow - Being a New Mom
 date: 2024-01-20
 ---
-> I feel like I’m a milk cow
+> "I feel like I’m a milk cow"
 
 Such words I’ve been saying often as a new first time mom of a 2 week old baby boy. I’m not sure how else to feel at this point, nothing I do calms the baby down. No amount of milk I produce is enough for him. 
 
