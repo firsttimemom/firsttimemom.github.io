@@ -1,8 +1,7 @@
 ---
-title: MilkCow
+title: The Milk Cow - Being a New Mom
 date: 2024-01-20
 ---
-# The Milk Cow - Being a New Mom
 > I feel like I’m a milk cow
 
 Such words I’ve been saying often as a new first time mom of a 2 week old baby boy. I’m not sure how else to feel at this point, nothing I do calms the baby down. No amount of milk I produce is enough for him. 
@@ -17,7 +16,7 @@ I genuinely thought that the milk would increase as his milk needs increased, bu
 
 Sidenote: If you can manage a power nap yourself during this time then go for it, but who will do everything else around the home that needs to be done? Now this thought will run in the back of my mind until I am exchausted thinking about it, giving up on this thought of having a clean home too. 
 
-## Back to the milk factory.
+## Back to the milk factory
 
 Eating good food and drinking plenty of fluids, preferrebly water are essential for milk production. This milk cow has been eating like a champion and drinking so much water that I'm starting to feel like a jiggly pool. Now this works in general, but I find that my little minion nurses at each breast for about 30 to 40 minutes at a time which leaves a short amount of time to replenish what was lost during the feeding, but also preparing things for the next feeding, which if your supply is as minimal as mine means you need to prepare formula to top the baby up after the breasts are empty. This is an endless cycle that goes from morning to night, and at night this little angel is more fussy than normal. 
 
