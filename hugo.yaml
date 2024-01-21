@@ -1,6 +1,7 @@
 baseURL: https://milkcow.mom/
 languageCode: en-us
 title: Adventures of a first-time mom
+googleAnalytics: G-LLTRMYQB6H
 theme: anubis
 
 params:
