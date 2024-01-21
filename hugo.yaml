@@ -5,3 +5,7 @@ theme: anubis
 
 params:
   style: dark
+
+  social:
+    - id: twitter
+      name: the_milk_cow
