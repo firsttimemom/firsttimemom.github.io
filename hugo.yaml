@@ -1,8 +1,9 @@
 baseURL: https://milkcow.mom/
 languageCode: en-us
 title: Adventures of a first-time mom
-googleAnalytics: G-LLTRMYQB6H
 theme: anubis
+googleAnalytics: G-LLTRMYQB6H
+enableRobotsTXT: true
 
 params:
   style: dark
@@ -10,3 +11,7 @@ params:
   social:
     - id: twitter
       name: the_milk_cow
+
+services:
+  disqus:
+    shortname: milkcow-mom
