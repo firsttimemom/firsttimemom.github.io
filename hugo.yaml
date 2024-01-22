@@ -7,7 +7,7 @@ enableRobotsTXT: true
 
 params:
   style: dark
-
+  rssAsSocialIcon: true
   social:
     - id: twitter
       name: the_milk_cow
