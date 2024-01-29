@@ -1,7 +1,6 @@
 ---
 title: It's a Wrap
-date: 2024-01-20
-draft: true
+date: 2024-01-29
 ---
 Like every mom to be during pregnancy, for the longest time, you spend time researching different carriers and wraps which will hopefully suit your wants and needs especially when you have a certain image in mine. 
 
