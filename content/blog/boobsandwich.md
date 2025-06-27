@@ -1,7 +1,7 @@
 ---
 title: A boob sandwich
 date: 2024-01-30
-draft: true
+draft: false
 ---
 Have a boob sandwich!
 
